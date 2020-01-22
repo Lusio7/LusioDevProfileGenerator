@@ -1,5 +1,5 @@
-# LusioDeveloperProfileGenerator
-Node.js and ES6+ Homework: Developer Profile Generator
+# LusioDeveloperProfileGenerator See the app here: https://lusio7.github.io/LusioDevProfileGenerator/
+Node.js Developer Profile Generator
 
 
 Node.js and ES6+ Homework: Developer Profile Generator
