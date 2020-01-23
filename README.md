@@ -73,3 +73,4 @@ Npm install axios
 Nmp install github-scraper
 Npm install electron@5.0.12
 Npm install electron-html-to
+phantom-html-to-pdf
