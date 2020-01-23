@@ -63,3 +63,13 @@ GIVEN the developer has a GitHub profile
 WHEN prompted for the developer's GitHub username and favorite color
 
 THEN a PDF profile is generated
+
+
+Dependencies:
+
+Npm init
+Nmp install
+Npm install axios
+Nmp install github-scraper
+Npm install electron@5.0.12
+Npm install electron-html-to
